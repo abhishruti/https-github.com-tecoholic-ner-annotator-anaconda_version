@@ -1,4 +1,4 @@
-# https-github.com-tecoholic-ner-annotator-anaconda_version
+#Starting ner-annotator by Tecoholic using Anaconda prompt
 It is anaconda code for starting ner-application created by the author tecoholic
 Clone the repository or download zip file from techolic ner-annotator
 This command is specifically for Anaconda users.
@@ -17,6 +17,7 @@ If the installation fails, individually install each dependencies. If the indivi
 
 >>python annotator/server.py
 
+In a different terminal
 >>cd C:\ner-annotator-main
 >>cd ui
 >>conda install yarn
