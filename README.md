@@ -19,6 +19,9 @@ If the installation fails, individually install each dependencies. If the indivi
 
 In a different terminal
 >>cd C:\ner-annotator-main\ui
+>>
 >>conda install yarn
+>>
 >>yarn install
+>>
 >>yarn serve
